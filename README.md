@@ -25,7 +25,7 @@
 
 ## 运行方式
 
-1. 安装或解压 `Godot 4.5.x` Windows 标准版。
+1. 安装或解压 `Godot 4.6.x` Windows 标准版。
 2. 打开本目录中的 `project.godot`。
 3. 运行主场景。
 
