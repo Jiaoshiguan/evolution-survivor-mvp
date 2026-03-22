@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://t8sjbd70l4q7"]
+
+[ext_resource type="Script" uid="uid://bshfgb1cxcqux" path="res://scripts/Run.gd" id="1_cqj3b"]
+
+[node name="Run" type="Node2D" unique_id=951676186]
+script = ExtResource("1_cqj3b")
+
+[node name="EnemyLayer" type="Node2D" parent="." unique_id=1877183617]
+
+[node name="OrbLayer" type="Node2D" parent="." unique_id=1189225697]
+
+[node name="ProjectileLayer" type="Node2D" parent="." unique_id=1173509360]
+
+[node name="FxLayer" type="Node2D" parent="." unique_id=1753222594]
+
+[node name="UI" type="CanvasLayer" parent="." unique_id=1941644574]

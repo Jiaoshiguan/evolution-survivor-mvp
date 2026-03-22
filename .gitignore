@@ -1,0 +1,27 @@
+# Godot editor/import cache
+.godot/
+.import/
+*.translation
+
+# Export secrets
+export_credentials.cfg
+
+# Godot Mono/.NET generated files
+.mono/
+mono_crash.*.json
+*.csproj
+*.sln
+*.user
+*.userprefs
+bin/
+obj/
+
+# IDE settings
+.idea/
+.vscode/
+.vs/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
